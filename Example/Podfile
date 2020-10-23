@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'w3c_Example' do
+  pod 'w3c', :path => '../'
+
+  target 'w3c_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

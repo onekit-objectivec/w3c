@@ -1,0 +1,6 @@
+framework module w3c {
+  umbrella header "w3c-umbrella.h"
+
+  export *
+  module * { export * }
+}

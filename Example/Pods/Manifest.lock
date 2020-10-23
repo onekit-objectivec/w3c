@@ -1,0 +1,16 @@
+PODS:
+  - w3c (0.1.0)
+
+DEPENDENCIES:
+  - w3c (from `../`)
+
+EXTERNAL SOURCES:
+  w3c:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  w3c: f35553af2b3f59545aec7e34fdbd59f51e9273ac
+
+PODFILE CHECKSUM: 713d2eb012299f99884ee9fa7f1a0686841e98da
+
+COCOAPODS: 1.8.4
